@@ -11,11 +11,10 @@
         <link rel="apple-touch-icon" href="images/logo192.png">
     </head>
     <body>
-        <p>Olá!</p>
+        <p>Informações do Sistema:</p>
         <p style="text-align: justify;">
             <?php echo $useragent; ?>
         </p>
-        <p><?php echo date('d/m/Y H:i') ?></p>
         <script src="src/index.js"></script>
     </body>
 </html>
