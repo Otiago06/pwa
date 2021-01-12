@@ -18,5 +18,21 @@
 			"type": "image/png",
 			"purpose": "any maskable"
 		}
-	]
+	],
+    "shortcuts": [
+    {
+      "name": "Adicionar novo cliente",
+      "short_name": "Novo cliente",
+      "description": "Adiciona rapidamente um novo cliente",
+      "url": "./index.html",
+      "icons": [{ "src": "images/logo192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Adicionar novo pedido",
+      "short_name": "Novo pedido",
+      "description": "Inicia rapidamente um novo pedido",
+      "url": "./index.html",
+      "icons": [{ "src": "images/logo192.png", "sizes": "192x192" }]
+    }
+  ]
 }
